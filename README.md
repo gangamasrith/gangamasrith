@@ -91,16 +91,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gangamasrith&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 📧 Open to **Software Engineering**, **AI**, **Backend Development**, and **QA/Testing** opportunities.
